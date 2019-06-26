@@ -1,3 +1,3 @@
 # webTeste
 
-Api de Atualização de produtos,estoque quantidade em loja e Galpão
+Api de Atualização de nome produtos, preço proutos, estoque quantidade em loja e Galpão
